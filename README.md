@@ -23,10 +23,8 @@ Plots ver. 1.40.2
 ### eigenvalue.py  
 This is a code for computing and plotting eigenvalues.
 
-Language:  
-Python ver 3.12.4  
-Packages:  
-Matplotlib ver 3.10.1
+Language: Python ver 3.12.4  
+Packages: Matplotlib ver 3.10.1
 
 ### heatmap.py  
 This is a code for computing eigenvalues and drawing heat maps.
