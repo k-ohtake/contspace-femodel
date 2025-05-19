@@ -7,7 +7,8 @@ Ohtake, K. (2025). Unique global solution of an integral-differential equation o
 <a href="https://doi.org/10.48550/arXiv.2505.11241" target="_blank" rel="noopener noreferrer">https://doi.org/10.48550/arXiv.2505.11241</a>
 
 # Overview
-### fe_autoparam.ipynb
+### fe_autoparam.ipynb  
+This is a code for simulating an evolution equation.
 
 Language:  
 Julia ver 1.10.2  
@@ -19,8 +20,26 @@ Format ver. 1.3.7
 IJulia ver. 1.24.2  
 Plots ver. 1.40.2  
 
-### eigenvalue.py
+### eigenvalue.py  
+This is a code for computing and plotting eigenvalues.
 
-### heatmap.py
+Language:  
+Python ver 1.10.2  
+Packages:  
+Matplotlib ver ***
+
+### heatmap.py  
+This is a code for computing eigenvalues and drawing heat maps.
+
+Language:  
+Python ver 1.10.2  
+Packages:  
+Matplotlib ver ***
 
 ### contour.py
+This is a code for computing and plotting critical curves.
+
+Language:  
+Python ver 1.10.2  
+Packages:  
+Matplotlib ver ***
