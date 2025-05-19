@@ -7,6 +7,7 @@ Ohtake, K. (2025). Unique global solution of an integral-differential equation o
 <a href="https://doi.org/10.48550/arXiv.2505.11241" target="_blank" rel="noopener noreferrer">https://doi.org/10.48550/arXiv.2505.11241</a>
 
 # Overview
+### fe_autoparam.ipynb
 
 Language:  
 Julia ver 1.10.2  
@@ -17,3 +18,9 @@ Distributions ver. 0.25.107
 Format ver. 1.3.7  
 IJulia ver. 1.24.2  
 Plots ver. 1.40.2  
+
+### eigenvalue.py
+
+### heatmap.py
+
+### contour.py
