@@ -8,7 +8,7 @@ Ohtake, K. (2025). Unique global solution of an integral-differential equation o
 
 # Overview
 
-Language: 
+Language:  
 Julia ver 1.10.2  
 Packages:  
 CSV ver. 0.10.13  
