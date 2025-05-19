@@ -15,8 +15,8 @@ DateTime = datetime.datetime.today().strftime("%Y%m%d%H%M%S")
 
 # set parameters
 m = 0.6 # mu
-Lam = 1.0 # total manufacturing workers
-Ph = 1.0 # total agricultural workers
+Lam = 1.0 # total mobile workers
+Ph = 1.0 # total immobile workers
 r = 1.0 # radius
 F = 1.0 # fixed input
 v = 1.0 # adjustment speed
