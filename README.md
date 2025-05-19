@@ -24,22 +24,22 @@ Plots ver. 1.40.2
 This is a code for computing and plotting eigenvalues.
 
 Language:  
-Python ver 1.10.2  
+Python ver 3.12.4  
 Packages:  
-Matplotlib ver ***
+Matplotlib ver 3.10.1
 
 ### heatmap.py  
 This is a code for computing eigenvalues and drawing heat maps.
 
 Language:  
-Python ver 1.10.2  
+Python ver 3.12.4   
 Packages:  
-Matplotlib ver ***
+Matplotlib ver 3.10.1
 
 ### contour.py
 This is a code for computing and plotting critical curves.
 
 Language:  
-Python ver 1.10.2  
+Python ver 3.12.4   
 Packages:  
-Matplotlib ver ***
+Matplotlib ver 3.10.1
