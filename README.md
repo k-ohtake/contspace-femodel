@@ -1,10 +1,14 @@
 # contspace-femodel
 
-This repository provides simulation code for the following paper.  
+This repository provides simulation code for the following paper.
+
 I would appreciate your citing the following paper when you publish your results using this code.
 
+---
 Ohtake, K. (2025). A footloose entrepreneur model in a continuous space. arXiv preprint arXiv:2505.11241.  
 <a href="https://doi.org/10.48550/arXiv.2505.11241" target="_blank" rel="noopener noreferrer">https://doi.org/10.48550/arXiv.2505.11241</a>
+
+---
 
 ## Description
 
@@ -62,5 +66,5 @@ This is code for computing eigenvalues and drawing heat maps of eigenvalues for 
 
 Language: Python ver 3.12.4  
 Packages:  
-matplotlib ver 3.10.1  
-numpy 2.2.3
+matplotlib ver 3.10.7  
+numpy 2.3.5
